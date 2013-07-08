@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.core-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.beans-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/cglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.context.support-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.context-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.asm-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.expression-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.jdbc-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/spring-hibernate3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
