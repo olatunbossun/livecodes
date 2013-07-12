@@ -2,5 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.jdbc-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/org.springframework.beans-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/spring-dao.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/VAS Consulting/BBPrepaidUgandaSDP/lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STA HOLDINGS/nimbuzz/Desktop/mysql-connector-java-5.1.25-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
