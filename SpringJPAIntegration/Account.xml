@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entity-mapping version="1.0"
+xmlns="http://java.sun.com/xml/ns/persistence"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://java.sun.com/xml/ns/persistence>
+
+<entity class="com.home.Account">
+<table name="ACCOUNT"></table>
+<attributes>
+<id name="accountNumber">
+<column name="ACCOUNT_NUMBER"></cloumn>
+</id>
+<id name= "owner">
+<column name= "OWNER"></column>
+</id>
+<id name= "balance">
+<column name= "BALANCE"></column>
+</id>
+</attributes>
+
+</entity>
+</entity-mapping>
